@@ -1,5 +1,4 @@
 ## Henlooo 👋
-[![roadmap.sh](https://roadmap.sh/card/wide/67125d19791f57dd60bc1642?variant=dark)](https://roadmap.sh)
 
 - I am Chaaan or Cristian Jay, a BSIT College Student in Mapua Malayan Colleges Laguna
 - I practice Web development on my free time !
