@@ -1,6 +1,6 @@
 ## Henlooo 👋
 
-- I am Chaaan or Cristian Jay, an Undergraduate BSIT College Student in Mapua Malayan Colleges Laguna
+- I am Chaaan or Cristian Jay, an Undergraduate BSIT College Student at Mapua Malayan Colleges Laguna
 - I love playing games and anything anime related so, hope we get along :>
 
 <!--
