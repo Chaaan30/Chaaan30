@@ -1,8 +1,4 @@
 ## Henlooo 👋
-
-- I am Chaaan or Cristian Jay, an Undergraduate BSIT College Student at Mapua Malayan Colleges Laguna
-- I love playing games and anything anime related so, hope we get along :>
-
 <!--
 **Chaaan30/Chaaan30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
