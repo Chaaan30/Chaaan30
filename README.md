@@ -44,10 +44,6 @@ From rebuilding legacy asset trackers to developing assistive IoT tech, I enjoy 
 * 💼 **LinkedIn:** [/in/chaaan](https://linkedin.com/in/chaaan)
 * 📧 **Email:** cjds.work@gmail.com
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaaan30&show_icons=true&theme=visual_studio_code" alt="Chaaan's GitHub Stats" />
-</p>
-
 
 <!--
 **Chaaan30/Chaaan30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
