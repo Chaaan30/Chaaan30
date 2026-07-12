@@ -8,7 +8,7 @@ From rebuilding legacy asset trackers to developing assistive IoT tech, I enjoy 
 
 ### 🛠️ Core Tech Stack
 
-* **Languages:** C#, JavaScript, SQL, Java, Kotlin
+* **Languages:** C#, JavaScript, SQL, Java, Kotlin, Python
 * **Backend & Frameworks:** ASP.NET, .NET, Mendix Low-Code, REST APIs
 * **Frontend:** React, Vite, HTML5/CSS3
 * **Databases:** SQL Server, PostgreSQL, MySQL, Supabase
